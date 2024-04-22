@@ -3,7 +3,7 @@
 
 NewsBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-- On the sidebar, you can input URLs directly.
+- On the sidebar, URLs can be directly taken as inputs.
 
 - Initiate the data loading and processing by clicking "Process URLs."
 
